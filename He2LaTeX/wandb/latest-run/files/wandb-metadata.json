@@ -1,0 +1,27 @@
+{
+    "os": "Linux-5.4.144+-x86_64-with-Ubuntu-18.04-bionic",
+    "python": "3.7.12",
+    "heartbeatAt": "2022-02-02T20:50:22.298251",
+    "startedAt": "2022-02-02T20:50:17.928164",
+    "docker": null,
+    "gpu": "Tesla K80",
+    "gpu_count": 1,
+    "cpu_count": 2,
+    "cuda": null,
+    "args": [
+        "--config",
+        "settings/colab.yaml"
+    ],
+    "state": "running",
+    "program": "train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/lukas-blecher/LaTeX-OCR.git",
+        "commit": "b5217d2b9938b7d7c7f4f27c581985c9c112f254"
+    },
+    "email": null,
+    "root": "/content/LaTeX-OCR",
+    "host": "9c0654def40c",
+    "username": "root",
+    "executable": "/usr/bin/python3"
+}
